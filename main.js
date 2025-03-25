@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "Maneater",
     artist: "Daryl Hall & John Oates",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "Hall_Oates_H2O.jpg",
     path: "Daryl Hall & John Oates - Maneater (Official Video).mp3"
   },
   {
