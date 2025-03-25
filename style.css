@@ -1,8 +1,12 @@
-body {
-  background-color: lightgreen;
-
-  /* Smoothly transition the background color */
-  transition: background-color .5s;
+body{
+    background-image: url('Daryl_Hall_and_John_Oates_Maneater_Official_Video.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
 
 .player {
